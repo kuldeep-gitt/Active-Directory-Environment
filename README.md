@@ -1,12 +1,20 @@
 # Active-Directory-Environment
 
 📋 Contents
-Features
+1.Features
 
-Requirements
+2.Requirements
 
-Setup Guide
+3.Setup Guide
 
-Usage Examples
+4.Usage Examples
 
-Screenshots
+5.Screenshots
+
+✨ Features
+✅ Automated domain controller setup
+✅ Sample OU structure
+✅ Test users and groups
+✅ Security policies pre-configured
+
+
