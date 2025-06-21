@@ -13,8 +13,12 @@
 
 ✨ Features
 ✅ Automated domain controller setup
+
 ✅ Sample OU structure
+
 ✅ Test users and groups
+
 ✅ Security policies pre-configured
+
 
 
